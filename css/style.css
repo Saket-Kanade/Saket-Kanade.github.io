@@ -468,7 +468,7 @@ nav ul li a {
 #journal,  #journal-blog {
   height: auto;
   width: 100%;
-  background: #f7f7f7;
+  background: #ffffff;
   padding-bottom: 60px;
   position: relative;
 }
@@ -533,6 +533,7 @@ nav ul li a {
 #contact {
   height: auto;
   width: 100%;
+    background-color: #f7f7f7;
 }
 
 .contact-details {
