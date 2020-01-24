@@ -303,7 +303,8 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  /*border: 20px solid #b8a07e;*/
+  border: 20px solid #4370FF;
 }
 
 #about .div-img-bg .about-img img {
