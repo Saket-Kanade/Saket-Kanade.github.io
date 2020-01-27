@@ -130,6 +130,11 @@
   padding-left: 10%;
 }
 
+#blog-pic {
+  width: auto;
+  height: 500px;
+}
+
 /* Commonts form */
 
 .cmt {
