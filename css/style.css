@@ -127,7 +127,7 @@ h6 {
 #header.header-fixed {
   background: rgba(255, 255, 255, 0.9);
   padding: 10px 0;
-  height: 60px;
+  height: 70px;
   transition: all 0.5s;
 }
 
@@ -228,7 +228,7 @@ h6 {
 
 .nav-menu,
 .nav-menu * {
-  margin: 0;
+  margin-top: 1px;
   padding: 0;
   list-style: none;
 }
@@ -616,7 +616,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 1px solid #e6e6e6;
   height: 200px;
   position: relative;
-  background: #fafafa;
+  background: #1f4590;
 }
 
 #services .icon {
@@ -659,16 +659,16 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box:hover .icon {
-  background: #fff;
+  background: #1f4590;
   border: 2px solid #1f4590;
 }
 
 #services .box:hover .icon i {
-  color: #1f4590;
+  color: #fff;
 }
 
 #services .box:hover .icon a {
-  color: #1f4590;
+  color: #fff;
 }
 
 #services .title {
@@ -679,10 +679,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .title a {
-  color: #111;
+  color: #f7f7f7;
 }
 
 #services .description {
+    color: #fff;
   font-size: 14px;
   line-height: 24px;
 }
